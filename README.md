@@ -1,5 +1,6 @@
 # Deep_Neural_Game_Theory
 It is a deep learning neural network combined with game theory.
+A more thorough explanation can be seen in the docx data in this repository.
 
 Name: Deep Neural Game Theory
 
